@@ -1,6 +1,4 @@
 ASN
 ===
-$ cd Spoon-Knife
-$ git remote add upstream https://github.com/octocat/Spoon-Knife.git
-$ git init
-$ touch README
+Just trying to get used to git.
+Think will be using it full fledged soon!!!
